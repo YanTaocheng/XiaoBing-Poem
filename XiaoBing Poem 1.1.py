@@ -1,3 +1,6 @@
+# _*_ coding:utf-8 _*_
+__anthor__ = "yan"
+
 from tkinter import *
 from tkinter import ttk
 from tkinter import scrolledtext
@@ -7,13 +10,6 @@ from tkinter import messagebox
 from lxml import etree
 import requests, re
 import time
-
-# _*_ coding:utf-8 _*_
-__anthor__ = "yan"
-
-
-
-
 
 
 class XiaoBing():
